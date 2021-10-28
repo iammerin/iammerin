@@ -1,16 +1,20 @@
-### Hi there 👋
+### Merin Baskota 
+[![Twitter Badge](https://img.shields.io/badge/-Merin_Baskota-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=#)](https://twitter.com/Isha_1321)  [![Linkedin Badge](https://img.shields.io/badge/-Merin_Baskota-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/merin-baskota-a27024194//)](https://www.linkedin.com/in/merin-baskota-a27024194/) [![Gmail Badge](https://img.shields.io/badge/-merinbaskota.32@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:merinbaskota.32@gmail.com)](mailto:merinbaskota.32@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
 
-<!--
-**iammerin/iammerin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
+-  **Languages :** Python, C, JavaScript
+-  **Hobbies :** Articles & Music :headphones:
+-  **Fact :** First solve the problem, then write the code :heart: 
+-  **Organization :** None
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![github stats](https://github-readme-stats.vercel.app/api?username=iammerin&show_icons=true)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+⭐️ From [Merin Baskota](https://github.com/iammerin)
+
